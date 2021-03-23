@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Api\\Data",
+    "\\Api\\Data\\Collections",
+    "\\Api\\Models"
+  ],
+  "SelectedNode": "\\Api\\Data\\MongoDB.cs",
+  "PreviewInSolutionExplorer": false
+}
